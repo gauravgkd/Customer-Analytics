@@ -1,0 +1,51 @@
+ProductID,Product Name,Category,Price,StockQuantity,Supplier,Country
+P001,Smartphone,Electronics,699,100,TechCorp,USA
+P002,Laptop,Electronics,1200,50,ComputeInc,USA
+P003,Tablet,Electronics,499,150,TabletWorks,Canada
+P004,Smart Watch,Electronics,199,80,TechCorp,Canada
+P005,Wireless Headphones,Electronics,99,200,SoundCo,UK
+P006,Bluetooth Speaker,Electronics,49,300,SoundCo,UK
+P007,Gaming Console,Electronics,499,60,GameZone,Australia
+P008,Digital Camera,Electronics,599,120,PhotoPro,USA
+P009,Electric Scooter,Vehicles,799,30,FastRides,Australia
+P010,Fitness Tracker,Electronics,159,100,FitTrack,USA
+P011,Air Conditioner,Appliances,599,45,CoolBreeze,Canada
+P012,Refrigerator,Appliances,799,30,CoolBreeze,UK
+P013,Microwave,Appliances,129,150,HomeGoods,USA
+P014,Coffee Maker,Appliances,89,250,HomeGoods,USA
+P015,Vacuum Cleaner,Appliances,120,90,CleanCo,Canada
+P016,Gaming Chair,Furniture,189,60,ComfortCo,Australia
+P017,Office Desk,Furniture,350,40,ComfortCo,USA
+P018,Ergonomic Chair,Furniture,225,80,ComfortCo,Canada
+P019,Sofa Set,Furniture,899,15,HomeFurn,UK
+P020,Coffee Table,Furniture,149,100,HomeFurn,Australia
+P021,LED TV,Electronics,999,70,ViewNow,USA
+P022,Refrigerator,Appliances,499,50,CoolBreeze,Canada
+P023,Wireless Mouse,Electronics,39,180,TechCo,USA
+P024,Gaming Laptop,Electronics,1499,40,ComputeInc,Canada
+P025,Washing Machine,Appliances,799,60,CleanCo,Australia
+P026,Wireless Router,Electronics,129,300,NetTech,USA
+P027,Coffee Maker,Appliances,75,180,HomeGoods,UK
+P028,LED Light Bulb,Electronics,15,1000,BrightTech,USA
+P029,Food Processor,Appliances,249,70,KitchenCo,UK
+P030,Vacuum Cleaner,Appliances,159,120,CleanCo,Canada
+P031,Refrigerator,Appliances,899,45,CoolBreeze,Australia
+P032,Bluetooth Headphones,Electronics,119,200,SoundCo,UK
+P033,Gaming Keyboard,Electronics,89,150,GameZone,USA
+P034,Home Theater System,Electronics,399,80,AudioPro,Canada
+P035,Coffee Machine,Appliances,149,90,HomeGoods,Australia
+P036,Laptop Stand,Furniture,59,300,ComfortCo,USA
+P037,Monitor,Electronics,299,50,ViewNow,UK
+P038,Smart TV,Electronics,699,40,TechCorp,Australia
+P039,Hair Dryer,Appliances,89,200,HomeGoods,Canada
+P040,Electric Grill,Appliances,199,80,KitchenCo,USA
+P041,Gaming Headset,Electronics,99,150,SoundCo,Canada
+P042,Food Processor,Appliances,249,60,KitchenCo,UK
+P043,Blender,Appliances,129,120,KitchenCo,USA
+P044,Electric Kettle,Appliances,39,250,HomeGoods,UK
+P045,Microwave Oven,Appliances,149,70,HomeGoods,Canada
+P046,Portable Speaker,Electronics,79,300,SoundCo,USA
+P047,Gaming PC,Electronics,2999,20,ComputeInc,USA
+P048,Electric Bike,Vehicles,799,60,FastRides,Australia
+P049,Smart Thermostat,Appliances,249,100,HomeControl,UK
+P050,Washing Machine,Appliances,899,50,CleanCo,Canada
