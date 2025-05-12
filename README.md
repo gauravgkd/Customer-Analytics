@@ -1,4 +1,4 @@
-![Screenshot (14)](https://github.com/user-attachments/assets/76682b49-0985-4fb1-82d8-112ff895ba24)# Customer-Analytics
+# Customer-Analytics
 A complete Customer Analytics project using SQL, Excel, and Power BI to uncover insights from sales data. Includes database dump, CSV files, SQL queries, visualizations, and documentation.
 
 
@@ -28,7 +28,16 @@ A complete Customer Analytics project using SQL, Excel, and Power BI to uncover 
 ![Screenshot (14)](https://github.com/user-attachments/assets/bce77587-7274-4056-8cbd-11d40e318b7e)
 
 
+![Screenshot (15)](https://github.com/user-attachments/assets/ac336b29-96df-4ef1-8208-a5ecf2d134d3)
 
+
+![Screenshot (16)](https://github.com/user-attachments/assets/eb0f197f-5253-4389-84b7-2dc2ecdb1091)
+
+
+![Screenshot (17)](https://github.com/user-attachments/assets/5e35442b-c161-450b-8d2e-8da41ad12510)
+
+
+![Screenshot (18)](https://github.com/user-attachments/assets/496b6fbb-9449-4e1d-9846-e9c43bd75aa1)
 
 
 ## 🔍 Key Analysis Topics
